@@ -1,0 +1,7 @@
+#funzione che controlla se un numero è pari o dispari
+
+def pariOdispari(a):	#definizione della funzione
+	if a%2==0:
+		print a," e' un numero pari";
+	else:
+		print a," e' un numero dispari";
